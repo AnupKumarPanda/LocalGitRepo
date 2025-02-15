@@ -1,2 +1,2 @@
 Hi
-This is a feature1 operation (conflict data)
+This is a feature1 operation (feature1 data)
